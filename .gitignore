@@ -1,0 +1,14 @@
+# autotools files
+
+aclocal.m4
+autom4te.cache/
+ChangeLog
+configure
+config.log
+config.status
+INSTALL
+install-sh
+Makefile
+Makefile.in
+missing
+
