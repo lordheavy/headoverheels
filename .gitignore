@@ -6,9 +6,10 @@ ChangeLog
 configure
 config.log
 config.status
+compile
+depcomp
 INSTALL
 install-sh
 Makefile
 Makefile.in
 missing
-
