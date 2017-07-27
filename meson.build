@@ -16,3 +16,4 @@ dep_thread = dependency('threads')
 mycc.has_header('xsd/cxx/config.hxx')
 
 subdir('src')
+subdir('gamedata')

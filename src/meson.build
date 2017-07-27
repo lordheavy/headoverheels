@@ -209,4 +209,5 @@ hoh_src = [ actions_src, alogg_src, behaviors_src, csxml_src, gui_src, states_sr
 hoh_exe = executable ('headoverheels',
                       sources: hoh_src,
                       include_directories: hoh_includes,
-                      dependencies: hoh_dependencies)
+                      dependencies: hoh_dependencies,
+                      install: true)
